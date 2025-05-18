@@ -142,7 +142,3 @@ Potential enhancements could include:
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-[Add your preferred license here] 
